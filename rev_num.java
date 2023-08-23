@@ -15,5 +15,4 @@ public class rev_num{
         n=sc.nextInt();
         reverse(n);
     }
-    
 }
